@@ -1,4 +1,3 @@
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/96fbf271-1d2a-4c02-9dc7-72616ee982a0" />DASHBOARD PRODUCTIVIDAD DE LOS ALUMNOS
 Entrega para el modulo 4 del curso the power en análisis de datos
 
 En este dasboard se muestran los datos de productividad y rendimiento escolar sobre una muestra. Hemos intentado visualizar las medias en las notas escolares como en otros indicadores que pueden afectar el rendimiento (horas de estudio, bormount leve, ...). Así mismo se puede observar las diferencias que hay por los deciles, por genero o si el alumno trabaja o no.
